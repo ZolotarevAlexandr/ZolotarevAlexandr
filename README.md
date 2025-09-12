@@ -38,6 +38,5 @@
 <div id="languages" align="center">
     <h2> Languages </h2>
     <img src="https://img.shields.io/badge/Russian-white?style=for-the-badge" alt="Ru"/>
-    <br>
     <img src="https://img.shields.io/badge/English-white?style=for-the-badge" alt="En"/>
 </div>
