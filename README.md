@@ -5,7 +5,7 @@
 
 <div id="stat" align="center">
     <h2> ⚡ GitHub Stats </h2>
-    <img height=150 src="https://github-readme-stats-three-omega-60.vercel.app/api?username=ZolotarevAlexandr&hide=stars,issues&show_icons=false&rank_icon=github&theme=dark" alt=""/>
+    <img height=150 src="https://github-readme-stats-three-omega-60.vercel.app/api?username=ZolotarevAlexandr&hide=issues&show_icons=false&rank_icon=github&theme=dark" alt=""/>
     <img height=150 src="https://github-readme-stats-three-omega-60.vercel.app/api/top-langs/?username=ZolotarevAlexandr&hide=shell,html&layout=compact&langs_count=6&card_width=320&size_weight=0.5&count_weight=0.5&theme=dark" alt=""/>
 </div>
 
@@ -37,7 +37,7 @@
 
 <div id="languages" align="center">
     <h2> Languages </h2>
-    <img src="https://img.shields.io/badge/Russian-Native-white?style=for-the-badge" alt="Ru"/>
+    <img src="https://img.shields.io/badge/Russian-white?style=for-the-badge" alt="Ru"/>
     <br>
-    <img src="https://img.shields.io/badge/English-C1-white?style=for-the-badge" alt="En"/>
+    <img src="https://img.shields.io/badge/English-white?style=for-the-badge" alt="En"/>
 </div>
