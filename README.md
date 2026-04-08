@@ -12,18 +12,18 @@
 <div id="technologies" align="center">
     <h2> 💻 Technologies </h2>
     <h3> Languages </h3>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
     <h3> Frameworks & Libraries </h3>
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
     <img src="https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white" alt="Pydantic"/>
-    <img src="https://img.shields.io/badge/SQLalchemy-D71F00?style=for-the-badge&logo=sqlalchemy" alt="SQLalchemy"/>
+    <img src="https://img.shields.io/badge/SQLalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLalchemy"/>
     <img src="https://img.shields.io/badge/SQLmodel-336699?style=for-the-badge&logo=python&logoColor=white" alt="SQLmodel"/>
     <img src="https://img.shields.io/badge/Alembic-5E5C5C?style=for-the-badge&logo=python&logoColor=white" alt="Alembic"/>
     <img src="https://img.shields.io/badge/aiogram-%2326A5E4?style=for-the-badge" alt="Aiogram"/>
-    <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=FFFFFF" alt="Gin"/>
+    <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" alt="Gin"/>
     <img src="https://img.shields.io/badge/Jinja-7E0C1B?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2"/>
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     <h3> Databases & Storage </h3>
