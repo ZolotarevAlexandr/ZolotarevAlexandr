@@ -6,7 +6,7 @@
 <div id="stat" align="center">
     <h2> ⚡ GitHub Stats </h2>
     <img height=150 src="https://github-readme-stats-three-omega-60.vercel.app/api?username=ZolotarevAlexandr&hide=issues&show_icons=false&rank_icon=github&theme=dark" alt=""/>
-    <img height=150 src="https://github-readme-stats-three-omega-60.vercel.app/api/top-langs/?username=ZolotarevAlexandr&hide=shell,html&layout=compact&langs_count=6&card_width=320&size_weight=0.5&count_weight=0.5&theme=dark" alt=""/>
+    <img height=150 src="https://github-readme-stats-three-omega-60.vercel.app/api/top-langs/?username=ZolotarevAlexandr&hide=shell,html,jupyter%20notebook&layout=compact&langs_count=6&card_width=320&size_weight=0.5&count_weight=0.5&theme=dark" alt=""/>
 </div>
 
 <div id="technologies" align="center">
